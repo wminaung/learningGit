@@ -12,4 +12,4 @@ function winmin(win) {
 }
 winmin(win);
 console.log(win);
-console.log("win min aung");
+console.log("Hello World");
